@@ -1,6 +1,0 @@
-[MAKE FOLDER]
-EasyTOPO_path\new_folder
-
-[UPDATE]
-EasyTOPO.vbi
-asyTOPO_path\EasyTOPO.vbi
