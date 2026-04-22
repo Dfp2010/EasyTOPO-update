@@ -1,0 +1,3 @@
+Detalii versiune:
+- Utile - transformare Text si MText in polilinii (pentru controller GPS)
+- verificare polilinie - boundary crosses itself
