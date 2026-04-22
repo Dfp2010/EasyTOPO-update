@@ -3,4 +3,4 @@ EasyTOPO_path\new_folder
 
 [UPDATE]
 EasyTOPO.vbi
-EasyTOPO_path\EasyTOPO.vbi
+EasyTOPO_path\new_folder\EasyTOPO.vbi
