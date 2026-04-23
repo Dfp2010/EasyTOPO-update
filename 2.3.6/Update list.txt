@@ -1,6 +1,7 @@
 [MAKE FOLDER]
-EasyTOPO_path\new_folder
+EasyTOPO_path\settings\sabloane\caractere
 
 [UPDATE]
 EasyTOPO.vbi
 EasyTOPO_path\new_folder\EasyTOPO.vbi
+
