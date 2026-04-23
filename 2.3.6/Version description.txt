@@ -1,3 +1,4 @@
 Detalii versiune:
-- Utile - transformare Text si MText in polilinii (pentru controller GPS)
-- verificare polilinie - boundary crosses itself
+- La selectarea poliliniei pentru teren sau constructie, se face o verificare suplimentara asupra geometriei. Se verifica daca exista vertecsi care determina ca poligonul sa se intersecteze cu el insusi, ceea ce genereaza eroarea in Eterra "Boundary crosses itself".
+- Functie noua: transformare text in polilinii. Este utila pentru cazurile in care se importa DXF sau DWG in controllerul receptorului GNSS si acesta nu poate afisa texte. Transformarea textelor in polilinii asigura compatibilitatea afisarii. Functia se poate accesa din "Utile - Altele - Transforma texte in polilinii".
+- Remediere bug-uri minore.
