@@ -30,11 +30,11 @@ EasyTOPO_path\settings\sabloane\caractere\(.dwg
 EasyTOPO_path\settings\sabloane\caractere\).dwg
 
 [UPDATE]
-.._.dwg
+pct.dwg
 EasyTOPO_path\settings\sabloane\caractere\.._.dwg
 
 [UPDATE]
-._.dwg
+2pct.dwg
 EasyTOPO_path\settings\sabloane\caractere\._.dwg
 
 [UPDATE]
